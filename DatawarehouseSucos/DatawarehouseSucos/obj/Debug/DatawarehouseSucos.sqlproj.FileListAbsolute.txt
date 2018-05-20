@@ -1,0 +1,10 @@
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.sqlprojResolveAssemblyReference.cache
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\Model.xml
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\refactor.xml
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\postdeploy.sql
+F:\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\predeploy.sql

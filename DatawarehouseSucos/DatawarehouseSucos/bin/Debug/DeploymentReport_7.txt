@@ -1,0 +1,19 @@
+﻿** Destaques
+     Tabelas que serão recriadas
+       Nenhum
+     Índices clusterizados que serão removidos
+       Nenhum
+     Índices clusterizados que serão criados
+       Nenhum
+     Possíveis problemas de dados
+       O tipo para a coluna Cod_Semestre na tabela [dbo].[Dim_Tempo] é atualmente  NVARCHAR (50) NULL, mas está sendo alterado
+         para  INT NULL. Poderá ocorrer perda de dados.
+
+** Ações do usuário
+     Alterar
+       [dbo].[Dim_Tempo] (Tabela)
+
+** Ações de suporte
+
+O tipo para a coluna Cod_Semestre na tabela [dbo].[Dim_Tempo] é atualmente  NVARCHAR (50) NULL, mas está sendo alterado para  INT NULL. Poderá ocorrer perda de dados.
+
